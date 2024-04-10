@@ -1,0 +1,112 @@
+#index{
+    background-image: linear-gradient(to top, rgb(229, 91, 91) ,rgb(221, 234, 37));
+    
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#h4{
+    color: rgb(67, 67, 241);
+}
+#h3{
+    color: brown;
+}
+#center{
+    width: 100%; 
+    height: 400px"
+}
+#nav1 {
+background-color: #ec7575;
+color: white;
+padding: 2%;
+text-align: center;
+}
+
+
+
+
+#navmap {
+    background-color: #ec7575;
+    color: white;
+     padding: 2%;
+    text-align: center;
+  }
+  #h2{
+      color: rgb(250, 167, 59); 
+  }
+  #bodymap {
+      text-align: center;
+  }
+
+
+
+  #bodyavl{
+    background-color: blanchedalmond;
+}
+  #h2{
+        color: rgb(192, 36, 36);
+        text-align: center;
+    }
+
+
+
+    #bodycontact{
+        background-color: antiquewhite;
+        font-family: Arial, Helvetica, sans-serif;
+      }
+      #h1{
+        color: brown;
+        text-align: center;
+      }
+      input[type=submit]:hover {
+        background-color: #270989;
+      }
+      .container{
+        background-image: linear-gradient(to bottom, rgb(238, 234, 234) , rgb(41, 157, 130));
+      }
+      
+      
+      input[type=submit] {
+        background-color: #aa1d04;
+        color: white;
+        padding: 12px 20px;
+        border: none;
+        border-radius: 4px;
+        cursor: pointer;
+      }
+
+
+
+
+      #bodylist1{
+        font-family: Arial, Helvetica, sans-serif;
+        
+         background-image: linear-gradient(to bottom, rgb(238, 234, 234) , rgb(0, 183, 255)); 
+
+    }
+    #h2list{
+        color: rgb(192, 36, 36);
+        text-align: center;
+    }
+
+
+
+    #bodylist2{ font-family: Arial, Helvetica, sans-serif;
+                
+        background-image: linear-gradient(to bottom, rgb(238, 234, 234) , rgb(157, 41, 93)); 
+
+   }
+   #h2list{
+       color: rgb(192, 36, 36);
+       text-align: center;
+   }
+
+
+   #bodylist3{
+    font-family: Arial, Helvetica, sans-serif;
+     background-image: linear-gradient(to bottom, rgb(238, 234, 234) , rgb(119, 213, 41)); 
+
+}
+     #h2list{
+    color: rgb(192, 36, 36);
+    text-align: center;
+    }
